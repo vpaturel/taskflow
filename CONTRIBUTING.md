@@ -30,7 +30,7 @@ git clone https://github.com/<your-username>/taskflow.git
 cd taskflow
 
 # Add the upstream remote
-git remote add upstream https://github.com/serenity-demos/taskflow.git
+git remote add upstream https://github.com/vpaturel/taskflow.git
 ```
 
 ---
@@ -177,7 +177,7 @@ docs(contributing): add setup instructions
 
 ## Reporting Issues
 
-- Search [existing issues](https://github.com/serenity-demos/taskflow/issues) before opening a new one.
+- Search [existing issues](https://github.com/vpaturel/taskflow/issues) before opening a new one.
 - Use the appropriate issue template (bug report, feature request).
 - Include as much context as possible: OS, version, steps to reproduce, expected vs actual behavior.
 
